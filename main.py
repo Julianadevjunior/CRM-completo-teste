@@ -1,5 +1,7 @@
 import streamlit as st
+import requests
 
-st.write('oi')
-i = st.secrets["my_secrets"]["api_key"]
-st.write(i)
+
+url = st.secrets["my_secrets"]["url"]
+response = requests.get(url)
+st.write(response.json())
