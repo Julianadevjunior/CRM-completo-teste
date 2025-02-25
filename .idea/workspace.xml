@@ -8,6 +8,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.streamlit/secrets.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.streamlit/secrets.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cliente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/imovel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabela-clientes-sheet-59de7814cf68.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2tSYdurBpAMCmHpevx8iJ8lKMVR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Reverting in master",
     "last_opened_file_path": "C:/Users/jucar/Documents/teste_app_2"
   }
 }]]></component>
